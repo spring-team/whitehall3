@@ -1,3 +1,5 @@
+// It’s only a thought, and a thought can be changed.
+
 package com.atomist.w3;
 
 import org.springframework.web.bind.annotation.PathVariable;
