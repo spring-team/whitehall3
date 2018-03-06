@@ -1,3 +1,5 @@
+// I believe in you. You can do the thing!
+
 package com.atomist.w3;
 
 import org.springframework.boot.SpringApplication;
